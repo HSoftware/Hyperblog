@@ -11,5 +11,6 @@ Un blog increible para el [Curso de git y github](www.google.com) en [Platzi](ww
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Fredy
+- Creado por el increible team de Platzi 
 
 Y como un amable recordatorio: **Este Readme.md es un chiste** diseñado para el ejemplo. Si llegas acá **NO TE LO TOMES EN SERIO** y mejor ve a ver el curso    
